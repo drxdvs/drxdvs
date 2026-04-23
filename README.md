@@ -33,7 +33,9 @@ I enjoy building stuff that’s simple, useful, and sometimes a bit chaotic — 
 ### 🧠 Skills & Tools
 
 **Languages:** Python, JavaScript, C++, C, Lua, Java
+
 **Tools:** Git, VS Code, Jupyter Notebook, Roblox Studio
+
 **Focus:** Web Apps, Bots, Automation, Small AI Projects
 
 ---
@@ -41,7 +43,9 @@ I enjoy building stuff that’s simple, useful, and sometimes a bit chaotic — 
 ### 🔧 Currently Working On
 
 🛠️ A web dashboard for managing Discord bots
+
 🤖 A personality-based Discord bot (still in progress)
+
 🧪 Playing around with AI models & local setups
 
 ---
