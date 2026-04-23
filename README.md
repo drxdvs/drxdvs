@@ -1,6 +1,6 @@
-<p align="center" 
+<h1 align="center" 
   Hello, I'm Faisal
-</p>
+</h1>
 
 🎓 Lua Enthusiast  | ⚡ Curious mind, always exploring tech
 
