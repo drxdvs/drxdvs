@@ -57,8 +57,7 @@ I enjoy building stuff that’s simple, useful, and sometimes a bit chaotic — 
 ### 📬 Let's Connect
 
 🧩 Discord: `exotickic`
-
-🌐 Portfolio: coming soon...
+🌐 Portfolio: `faisalrizaportofolio.vercel.app`
 
 ---
 
