@@ -1,74 +1,75 @@
-<h1 align="center">Hi, I'm Faisal Riza</h1>
+<h1 align="center">Faisal Riza</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Code.+Create.+Improve.;Discord+Bot+Developer;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1400&color=7AA2F7&center=true&vCenter=true&width=420&lines=building+stuff+i+find+interesting;learning+by+doing;not+perfect%2C+just+progressing" />
 </p>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/exotickic?bg=0d1117&borderRadius=16px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=Probably%20building%20something..." />
-</p>
-
----
-
-## 🧠 About Me
-
-I'm passionate about building projects that feel alive.
-I enjoy creating tools, experimenting with ideas, and improving every day through real experience.
-
-### What I enjoy:
-
-* 🌐 Fullstack Developer
-* 🤖 Discord bot development
-* 🧪 AI experiments
-* 🔐 Cybersecurity basics
-* 🎮 Roblox scripting
-
----
-
-## 🚀 Current Projects
-
-* 🖥️ Discord bot dashboard
-* 🎀 Personality based bot system
-* 🧠 Local AI testing environment
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,lua,java,git,vscode" />
+  <img src="https://lanyard.cnrad.dev/api/apcrtprince?bg=0b0f17&borderRadius=22px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+coding+or+vibing+to+music" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### /about
+
+i'm faisal — i like figuring things out by actually building them.
+most of the time it's messy, sometimes it works, but it always teaches something.
+
+i'm not chasing perfection, just trying to get better each time i build something.
+
+---
+
+### /focus
+
+* web stuff (frontend + backend, nothing fancy yet)
+* discord bots with weird / fun ideas
+* playing around with ai tools
+* learning security basics on the side
+
+---
+
+### /now
+
+* building a small control panel for bots
+* experimenting with a personality-driven bot
+* trying to run ai locally without my laptop crying
+
+---
+
+### /stack
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drxdvs&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drxdvs&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drxdvs&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,lua,java,git,vscode&perline=8" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### /stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=drxdvsxdvs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=drxdvs&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### /connect
 
 <p align="center">
   <a href="https://discord.com/users/975269168184168539">
-    <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/discord-2f3136?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <sub>portfolio coming whenever it's ready</sub>
 </p>
 
 ---
 
-## 💭 Quote
-
 <p align="center">
-  <i>"Build first. Improve later."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f17,100:1a2333&height=120&section=footer"/>
 </p>
