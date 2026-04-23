@@ -1,4 +1,4 @@
-## Hello, I'm Faisal Riza 👋
+## Hello, I'm Faisal Riza 
 
 🎓 Lua Enthusiast  | ⚡ Curious mind, always exploring tech
 
