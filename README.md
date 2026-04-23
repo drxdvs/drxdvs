@@ -1,7 +1,7 @@
 <h1 align="center" 
   Hello, I'm Faisal
 </h1>
-
+ Hello, I'm Faisal
 🎓 Lua Enthusiast  | ⚡ Curious mind, always exploring tech
 
 <p align="left">
