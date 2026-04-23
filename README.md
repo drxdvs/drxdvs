@@ -1,6 +1,6 @@
 ## Hello, I'm Faisal Riza 👋
 
-🎓 Computer Engineering Student | ⚡ Curious mind, always exploring tech
+🎓 Lua Enthusiast  | ⚡ Curious mind, always exploring tech
 
 <p align="left">
   <img src="https://lanyard.cnrad.dev/api/975269168184168539?bg=0d1117&borderRadius=18px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." />
