@@ -61,4 +61,4 @@ I enjoy building stuff that’s simple, useful, and sometimes a bit chaotic — 
 
 ---
 
-> “Everybody in this country should learn how to program a computer, because it teaches you how to think.” - Steve Jobs
+> “Everybody should learn how to program a computer, because it teaches you how to think.” - Steve Jobs
