@@ -17,9 +17,13 @@ Most of the time, I'm just experimenting, learning by doing, and figuring things
 Things I usually spend time on:
 
 🕸️ Web development (frontend & backend)
+
 🤖 Building Discord bots with custom behavior
+
 🧠 Trying out AI tools just to see what they can do
+
 🔐 Learning cybersecurity basics & small challenges
+
 🎮 Scripting in Roblox Studio for fun
 
 I enjoy building stuff that’s simple, useful, and sometimes a bit chaotic — that’s where the fun is.
