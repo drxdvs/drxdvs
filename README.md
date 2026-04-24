@@ -36,7 +36,7 @@ I enjoy building stuff that’s simple, useful, and sometimes a bit chaotic — 
 
 ### 🧠 Skills & Tools
 
-**Languages:** Python, JavaScript, C++, C, Lua, Java
+**Languages:** Python, JavaScript, C++, Typescript, Lua.
 
 **Tools:** Git, VS Code, Jupyter Notebook, Roblox Studio
 
