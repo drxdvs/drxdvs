@@ -70,7 +70,6 @@ I enjoy building stuff that’s simple, useful, and sometimes a bit chaotic — 
 ### 📬 Let's Connect
 
 🧩 Discord: `@exotickic`
-🌐 Portfolio: `https://faisalrizaportofolio.vercel.app`
 
 ---
 
