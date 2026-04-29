@@ -86,7 +86,7 @@ I like creating things that are **simple, useful, and sometimes chaotic** — th
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=drxdvs&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
+    height="170"](https://github-readme-stats.vercel.app/api/top-langs/?username=drxdvs&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
   />
 </p>
 
