@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=FF4400&center=true&vCenter=true&width=750&lines=I'm+Faisal;Fullstack+Developer;Building+cool+stuff+quietly..." />
 </h1>
 
@@ -51,7 +51,7 @@ Not everything is serious — but everything is a learning process.
 
 ---
 
-<p align="center"><b>📊 GitHub Stats</b>
+<p align="center"><b>📊 GitHub Stats</b> </p>
 
 
 <p align="center">
