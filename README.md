@@ -6,7 +6,6 @@
   <img src="https://lanyard.cnrad.dev/api/975269168184168539?bg=0d1117&borderRadius=14px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." />
 </p>
 
----
 
 <h1 align="center"><b>⚙️ Tech Stack<b></h1>
   
