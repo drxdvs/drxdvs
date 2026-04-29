@@ -62,5 +62,5 @@ Not everything is serious — but everything is a learning process.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+  <b>© 2026 Audrey Faisal Riza. All Rights Reserved.</b>
 </p>
