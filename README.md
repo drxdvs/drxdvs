@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=FF4400&center=true&vCenter=true&width=750&lines=I'm+Faisal;Fullstack+Developer;Building+cool+stuff+quietly..." />
 </h1>
 
@@ -7,25 +7,25 @@
 </p>
 
 
-<h1 align="center"><b>⚙️ Tech Stack<b></h1>
+<h1 align="left"><b>⚙️ Tech Stack<b></h1>
   
- <p align="center"><b>Frontend<b></p>
+ <p align="left"><b>Frontend<b></p>
    
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css" />
 </p>
 
 
-<p align="center"><b>Backend & Databases<b></p>
+<p align="left"><b>Backend & Databases<b></p>
   </p>
   
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis,firebase" />
 </p>
 
-<p align="center"><b>Tools & Infra<b></p>
+<p align="left"><b>Tools & Infra<b></p>
   
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux" />
 </p>
 
@@ -62,7 +62,7 @@ Not everything is serious — but everything is a learning process.
 
 ## 📬 Contact
 
-<p align="center">
+<p align="left">
   <b>Discord:</b> @exotickic
 </p>
 
@@ -70,7 +70,7 @@ Not everything is serious — but everything is a learning process.
 
 💬 Quote
 
-<p align="center">
+<p align="left">
   <i>"Everybody in this country should learn how to program a computer, because it teaches you how to think." – Steve Jobs</i>
 </p>
 
