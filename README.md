@@ -47,9 +47,16 @@ Not everything is serious — but everything is a learning process.
 
 ## 📬 Contact
 
-<p align="center">
+<p align="left">
   <b>Discord:</b> @exotickic
 </p>
+
+---
+
+💬 Quote
+
+<p align="left">
+  <i>“Everybody in this country should learn how to program a computer, because it teaches you how to think.” - Steve Jobs</i>
 
 ---
 
