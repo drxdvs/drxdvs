@@ -51,7 +51,7 @@ Not everything is serious — but everything is a learning process.
 
 ---
 
-<p align="center"><b>📊 GitHub Stats</b> </p>
+<h1 align="center"><b>📊 GitHub Stats</b> </h1>
 
 
 <p align="center">
