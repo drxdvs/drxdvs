@@ -8,14 +8,6 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/drxdvs/drxdvs/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## ⚙️ Tech Stack
 
 ### 🎨 Frontend
