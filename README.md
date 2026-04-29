@@ -57,6 +57,7 @@ Not everything is serious — but everything is a learning process.
 
 <p align="left">
   <i>“Everybody in this country should learn how to program a computer, because it teaches you how to think.” - Steve Jobs</i>
+</p>
 
 ---
 
