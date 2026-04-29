@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=FF4400&center=true&vCenter=true&width=750&lines=I'm+Faisal;Fullstack+Developer;Building+cool+stuff+quietly..." />
 </h1>
 
-<p align="center">
+<p align="left">
   <img src="https://lanyard.cnrad.dev/api/975269168184168539?bg=0d1117&borderRadius=14px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." />
 </p>
 
