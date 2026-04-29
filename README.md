@@ -15,7 +15,10 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css" />
 </p>
 
+<p align="center"
 ### 🧠 Backend & Databases
+  </p>
+  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis,firebase" />
 </p>
