@@ -8,31 +8,50 @@
 
 ---
 
-## 🧠 About Me
+## 🐍 Contribution Graph
 
-> I build things that I find interesting.
-
-* 🌐 Web apps
-* 🤖 Bots & automation
-* 🧪 Small experiments
-
-Not everything is serious — but everything is a learning process.
+<p align="center">
+  <img src="https://github.com/drxdvs/drxdvs/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## ⚙️ Tech Stack
 
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,lua,nodejs,react,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,html,css" />
 </p>
+
+### 🧠 Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,redis,firebase" />
+</p>
+
+### 🛠 Tools & Infra
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,aws,vercel,linux" />
+</p>
+
+---
+
+## 🧠 About Me
+
+> I build things that I find interesting.
+
+- 🌐 Web apps  
+- 🤖 Bots & automation  
+- 🧪 Small experiments  
+
+Not everything is serious — but everything is a learning process.
 
 ---
 
 ## 🎯 Current Focus
 
-* 🚀 Fullstack web development
-* ⚡ Automation & bot development
-* 🧠 Exploring AI & new technologies
+- 🚀 Fullstack web development  
+- ⚡ Automation & bot development  
+- 🧠 Exploring AI & new technologies  
 
 ---
 
@@ -47,7 +66,7 @@ Not everything is serious — but everything is a learning process.
 
 ## 📬 Contact
 
-<p align="left">
+<p align="center">
   <b>Discord:</b> @exotickic
 </p>
 
@@ -55,12 +74,12 @@ Not everything is serious — but everything is a learning process.
 
 💬 Quote
 
-<p align="left">
-  <i>“Everybody in this country should learn how to program a computer, because it teaches you how to think.” - Steve Jobs</i>
+<p align="center">
+  <i>"Everybody in this country should learn how to program a computer, because it teaches you how to think." – Steve Jobs</i>
 </p>
 
 ---
 
 <p align="center">
-  <b>© 2026 Audrey Faisal Riza. All Rights Reserved.</b>
+  <b>© 2026 Audrey Faisal Riza</b>
 </p>
