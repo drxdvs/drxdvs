@@ -8,7 +8,6 @@
 
 
 <h1 align="center"><b>⚙️ Tech Stack<b></h1>
-
 --------
   
  <p align="center"><b>Frontend<b></p>
