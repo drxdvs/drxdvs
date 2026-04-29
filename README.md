@@ -1,76 +1,106 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=FF0000&center=true&vCenter=true&width=720&lines=Hello%2C+I%27m+Faisal;Fullstack+Developer;Building+webs%2C+bots%2C+and+ideas"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=FF0000&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Faisal;Fullstack+Developer;Building+webs%2C+bots%2C+and+ideas"
     alt="Typing intro"
   />
 </h1>
- 
-🎓 Lua Enthusiast  | ⚡ Curious mind, always exploring tech
 
-<p align="left">
+<p align="center">
+  🎓 <b>Lua Enthusiast</b> • ⚡ Curious mind exploring tech
+</p>
+
+<p align="center">
   <img src="https://lanyard.cnrad.dev/api/975269168184168539?bg=0d1117&borderRadius=18px&animated=true&hideDiscrim=true&showDisplayName=true&idleMessage=probably+building+something..." />
 </p>
 
 ---
 
-### 🧩 About Me
+## 🚀 Badges
 
-Hey! I'm Faisal — I like turning random ideas into something real.
-
-Most of the time, I'm just experimenting, learning by doing, and figuring things out along the way.
-
-Things I usually spend time on:
-
-🕸️ Web development (frontend & backend)
-
-🤖 Building Discord bots with custom behavior
-
-🧠 Trying out AI tools just to see what they can do
-
-🔐 Learning cybersecurity basics & small challenges
-
-🎮 Scripting in Roblox Studio for fun
-
-I enjoy building stuff that’s simple, useful, and sometimes a bit chaotic — that’s where the fun is.
-
----
-
-### 🧠 Skills & Tools
-
-**Languages:** Python, JavaScript, C++, Typescript, Lua.
-
-**Tools:** Git, VS Code, Jupyter Notebook, Roblox Studio
-
-**Focus:** Web Apps, Bots, Automation, Small AI Projects
-
----
-
-### 🔧 Currently Working On
-
-🛠️ A web dashboard for managing Discord bots
-
-🤖 A personality-based Discord bot (still in progress)
-
-🧪 Playing around with AI models & local setups
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=drxdvs&show_icons=true&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=drxdvs&label=Profile+Views&color=ff0000&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/drxdvs?label=Followers&style=for-the-badge&color=ff0000" />
+  <img src="https://img.shields.io/github/stars/drxdvs?affiliations=OWNER&label=Stars&style=for-the-badge&color=ff0000" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drxdvs&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=drxdvs&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=drxdvs&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 📬 Let's Connect
+## 🧩 About Me
 
-🧩 Discord: `@exotickic`
+Hey, I'm **Faisal** 👋
+
+I enjoy turning random ideas into real projects — learning by building, breaking things, and figuring them out along the way.
+
+💭 Most of my time goes into:
+
+* 🕸️ Web development (frontend & backend)
+* 🤖 Building Discord bots with custom behaviors
+* 🧠 Exploring AI tools & experimenting freely
+* 🔐 Learning cybersecurity fundamentals
+* 🎮 Scripting in Roblox Studio just for fun
+
+I like creating things that are **simple, useful, and sometimes chaotic** — that's where the fun is.
 
 ---
 
-> “Everybody should learn how to program a computer, because it teaches you how to think.” - Steve Jobs
+## 🧠 Skills & Tools
+
+### 💻 Languages
+
+`Python` • `JavaScript` • `TypeScript` • `C++` • `Lua`
+
+### 🛠️ Tools
+
+`Git` • `VS Code` • `Jupyter Notebook` • `Roblox Studio`
+
+### 🎯 Focus
+
+* Web Applications
+* Automation & Bots
+* Small AI Projects
+
+---
+
+## 🔧 Currently Working On
+
+* 🛠️ Discord bot management dashboard (web-based)
+* 🤖 Personality-based Discord bot *(WIP)*
+* 🧪 Experimenting with local AI models
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=drxdvs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=drxdvs&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  🧩 Discord: <b>@exotickic</b>
+</p>
+
+---
+
+<p align="center">
+  <i>"Everybody should learn how to program a computer, because it teaches you how to think."</i><br>
+  — Steve Jobs
+</p>
